@@ -5,7 +5,7 @@ A multiplayer version of the traditional Vietnamese card game "Tiến Lên Miề
 ---
 ## 🖼️ Gameplay Screenshots
 
-### 🧱 System Architecture Diagram  
+### 🧱 System Architecture Diagram  (ServerChinh là server cha và nó chứa các server(đó là port vì lúc đó gà nên quy ước thành server con))
 ![Kientruchethong](IMAGE/Kientruchethong.png)
 
 ### 🧭 Game Flow Diagram  
