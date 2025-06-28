@@ -14,7 +14,7 @@ A multiplayer version of the traditional Vietnamese card game "Tiến Lên Miề
 ![LOGIN](IMAGE/LOGIN.png)
 
 ### 📝 Register Screen  
-![Game](IMAGE/Game.png)
+![Register](IMAGE/Register.png)
 
 ### 🔑 Forgot Password  
 ![ForgotPassword](IMAGE/ForgotPassword.png)
