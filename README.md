@@ -5,6 +5,9 @@ A multiplayer version of the traditional Vietnamese card game "Tiến Lên Miề
 ---
 ## 🖼️ Gameplay Screenshots
 
+### 🧱 System Architecture Diagram  
+![Kientruchethong](IMAGE/Kientruchethong.png)
+
 ### 🧭 Game Flow Diagram  
 ![Gameflow](IMAGE/GameFlow.png)
 
@@ -46,8 +49,6 @@ A multiplayer version of the traditional Vietnamese card game "Tiến Lên Miề
 ### 🌐 TCP Client–Server Network Architecture  
 ![Mohinhsudung](IMAGE/Mohinhsudung.png)
 
-### 🧱 System Architecture Diagram  
-![Kientruchethong](IMAGE/Kientruchethong.png)
 
 ## 🚀 Features
 - Real-time 4-player online card gameplay
