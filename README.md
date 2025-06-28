@@ -3,6 +3,51 @@
 A multiplayer version of the traditional Vietnamese card game "Tiến Lên Miền Nam", developed as a second-year course project. The game was built using C# and WinForms for the interface, with TCP Socket for networking and SQL Server for data persistence.
 
 ---
+## 🖼️ Gameplay Screenshots
+
+### 🧭 Game Flow Diagram  
+![Gameflow](IMAGE/GameFlow.png)
+
+---
+
+### 🔐 Login Screen  
+![LOGIN](IMAGE/LOGIN.png)
+
+### 📝 Register Screen  
+![Game](IMAGE/Game.png)
+
+### 🔑 Forgot Password  
+![ForgotPassword](IMAGE/ForgotPassword.png)
+
+---
+
+### 🏠 Main Menu  
+![Main](IMAGE/Main.png)
+
+### 🛋️ Choose Room Interface  
+![ChooseRoom](IMAGE/ChooseRoom.png)
+
+### 🎲 Join Random Room  
+![Chonphongngaunhien](IMAGE/Chonphongngaunhien.png)
+
+### 🛠️ Create New Table  
+![Taoban](IMAGE/Taoban.png)
+
+---
+
+### 🃏 In-Game View (4 Players)  
+![GamePlay](IMAGE/GamePlay.png)
+
+### 💰 Money Calculation Logic  
+![ThuatToanTinhTien](IMAGE/ThuatToanTinhTien.png)
+
+---
+
+### 🌐 TCP Client–Server Network Architecture  
+![Mohinhsudung](IMAGE/Mohinhsudung.png)
+
+### 🧱 System Architecture Diagram  
+![Kientruchethong](IMAGE/Kientruchethong.png)
 
 ## 🚀 Features
 - Real-time 4-player online card gameplay
