@@ -1,4 +1,17 @@
-# Tien len mien nam
+# 🂡 Tiến Lên Miền Nam – Online Card Game (Course Project)
+
+A multiplayer version of the traditional Vietnamese card game "Tiến Lên Miền Nam", developed as a second-year course project. The game was built using C# and WinForms for the interface, with TCP Socket for networking and SQL Server for data persistence.
+
+---
+
+## 🚀 Features
+
+- 2-player real-time multiplayer gameplay
+- Full implementation of Tiến Lên Miền Nam rules
+- Room management: create, find, and join rooms
+- Post-game reward system (money calculation)
+- Sound effects and player database
+- Simple and intuitive WinForms interface
 ## 👥 Team Members & Responsibilities
 
 - 🎮 **Member 1**: Implemented complete game logic (card rules, turn checking, win condition)
