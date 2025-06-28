@@ -5,13 +5,15 @@ A multiplayer version of the traditional Vietnamese card game "Tiến Lên Miề
 ---
 
 ## 🚀 Features
-
-- 2-player real-time multiplayer gameplay
+- Real-time 4-player online card gameplay
+- Multiple game rooms can exist and run concurrently
 - Full implementation of Tiến Lên Miền Nam rules
-- Room management: create, find, and join rooms
-- Post-game reward system (money calculation)
-- Sound effects and player database
-- Simple and intuitive WinForms interface
+- Room management: create room, search for rooms, join room
+- Matchmaking system for selecting or creating tables
+- Post-match reward system (money calculation and account update)
+- Sound effects and WinForms GUI
+- Player data persistence via SQL Server
+
 ## 👥 Team Members & Responsibilities
 
 - 🎮 **Member 1**: Implemented complete game logic (card rules, turn checking, win condition)
